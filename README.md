@@ -1,8 +1,10 @@
-# Projeto Onda Digital: Meninas Digitais
+# CIPROG Onda Digital: Meninas Digitais
 
-Projeto Final do Meninas Digitais, programação para mulheres.
+## Projeto Final para certificação do curso de iniciação a programação para mulheres. 
 
-Código para uma empresa de Cosméticos e Alimentos naturais, com a funcionalidade da compra simultânea entre as lojas e a forma de pagamento personalizada;
-Utilizado: DO/WHILE, IF, SWITCH, FOR, SETPRECISION, VETORES, STRING;
-Software: Repl.it
-Linguagem: C++
+### Consiste em um código de sistema de vendas para uma loja que possui separadamente venda de cosméticos e alimentos naturais, mas que as clientes conseguem comprar simultâneamente. 
+
+<p> Para rodar o código no Repl.it online <a href="https://repl.it/@TayhTH/projfinal-1#main.cpp"> clique aqui </a>
+<img src="https://github.com/tayhsn/meninasDigitais/blob/main/demo.png" />
+</p>
+
