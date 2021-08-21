@@ -1,10 +1,15 @@
-# CIPROG Onda Digital: Meninas Digitais
+# CIPROG @ Meninas Digitais :woman_technologist:
 
-## Projeto Final para certificação do curso de iniciação a programação para mulheres. 
+Projeto de avaliação submetido para conclusão do curso de Iniciação a Programação de Computadores do projeto Meninas Digitais, uma parceria Onda Digital.
 
-### Consiste em um código de sistema de vendas para uma loja que possui separadamente venda de cosméticos e alimentos naturais, mas que as clientes conseguem comprar simultâneamente. 
 
-<p> Para rodar o código no Repl.it online <a href="https://repl.it/@TayhTH/projfinal-1#main.cpp"> clique aqui </a>
-<img src="https://github.com/tayhsn/meninasDigitais/blob/main/demo.png" />
-</p>
 
+## Sobre o projeto
+
+Sistema de vendas para uma loja que possui, separadamente, venda de cosméticos e alimentos naturais. Permite que as clientes possam comprar entre as lojas simultâneamente. 
+
+
+
+#### Link para o Repl.it: https://replit.com/@TayhTH/projetofinal
+
+### 
